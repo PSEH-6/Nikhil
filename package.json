@@ -16,7 +16,9 @@
     "dotenv": "*",
     "eslint": "*",
     "istanbub": "*",
-    "newrelic": "*"
+    "newrelic": "*",
+    "rootpath": "^0.1.2",
+    "cors": "^2.8.4"
   },
   "scripts": {
     "start": "node index.js",
