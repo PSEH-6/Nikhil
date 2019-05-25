@@ -7,11 +7,20 @@
     "express": "*",
     "request": "*",
     "xml-js": "*",
-    "log4js": "*"
+    "log4js": "*",
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "mocha": "^2.4.5",
+    "supertest": "*",
+    "should": "*",
+    "dotenv": "*",
+    "eslint": "*",
+    "istanbub": "*",
+    "newrelic": "*"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
