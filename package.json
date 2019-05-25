@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "*",
     "request": "*",
-    "xml-js": "*"
+    "xml-js": "*",
+    "log4js": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
