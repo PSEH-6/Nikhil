@@ -10,7 +10,7 @@
     "log4js": "*",
     "chai": "^3.5.0",
     "chai-http": "^2.0.1",
-    "mocha": "^2.4.5",
+    "mocha": "^10.1.0",
     "supertest": "*",
     "should": "*",
     "dotenv": "*",
